@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on LuxCook</title>
-    <link>http://localhost:49717/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on LuxCook</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>lb</language>
     <lastBuildDate>Mon, 01 Jul 2024 03:16:59 +0200</lastBuildDate>
-    <atom:link href="http://localhost:49717/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fleesch</title>
-      <link>http://localhost:49717/tags/fleesch/</link>
+      <link>http://localhost:1313/tags/fleesch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49717/tags/fleesch/</guid>
+      <guid>http://localhost:1313/tags/fleesch/</guid>
       <description></description>
     </item>
     <item>
       <title>Nuddelen</title>
-      <link>http://localhost:49717/tags/nuddelen/</link>
+      <link>http://localhost:1313/tags/nuddelen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49717/tags/nuddelen/</guid>
+      <guid>http://localhost:1313/tags/nuddelen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Püree</title>
+      <link>http://localhost:1313/tags/p%C3%BCree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/p%C3%BCree/</guid>
       <description></description>
     </item>
     <item>
       <title>Vegetaresch</title>
-      <link>http://localhost:49717/tags/vegetaresch/</link>
+      <link>http://localhost:1313/tags/vegetaresch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49717/tags/vegetaresch/</guid>
+      <guid>http://localhost:1313/tags/vegetaresch/</guid>
       <description></description>
     </item>
   </channel>

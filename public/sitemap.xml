@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:49717/posts/arrabbiata/</loc>
+    <loc>http://localhost:1313/posts/arrabbiata/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/posts/carbonara/</loc>
+    <loc>http://localhost:1313/posts/carbonara/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/categories/einfach/</loc>
+    <loc>http://localhost:1313/categories/einfach/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/tags/fleesch/</loc>
+    <loc>http://localhost:1313/tags/fleesch/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/laenner/italien/</loc>
+    <loc>http://localhost:1313/laenner/italien/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/laenner/</loc>
+    <loc>http://localhost:1313/laenner/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/laenner/l%C3%ABtzebuerg/</loc>
+    <loc>http://localhost:1313/laenner/l%C3%ABtzebuerg/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/posts/moschterzooss/</loc>
+    <loc>http://localhost:1313/posts/moschterzooss/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/tags/nuddelen/</loc>
+    <loc>http://localhost:1313/tags/nuddelen/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/categories/relativ-einfach/</loc>
+    <loc>http://localhost:1313/tags/p%C3%BCree/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/tags/</loc>
+    <loc>http://localhost:1313/categories/relativ-einfach/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/tags/vegetaresch/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/posts/test/</loc>
-    <lastmod>2024-07-01T02:54:57+02:00</lastmod>
+    <loc>http://localhost:1313/tags/vegetaresch/</loc>
+    <lastmod>2024-07-01T03:16:59+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49717/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:49717/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

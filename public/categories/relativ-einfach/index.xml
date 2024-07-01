@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Relativ Einfach on LuxCook</title>
-    <link>http://localhost:49717/categories/relativ-einfach/</link>
+    <link>http://localhost:1313/categories/relativ-einfach/</link>
     <description>Recent content in Relativ Einfach on LuxCook</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>lb</language>
     <lastBuildDate>Mon, 01 Jul 2024 03:16:59 +0200</lastBuildDate>
-    <atom:link href="http://localhost:49717/categories/relativ-einfach/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/relativ-einfach/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arrabbiata</title>
-      <link>http://localhost:49717/posts/arrabbiata/</link>
+      <link>http://localhost:1313/posts/arrabbiata/</link>
       <pubDate>Mon, 01 Jul 2024 03:16:59 +0200</pubDate>
-      <guid>http://localhost:49717/posts/arrabbiata/</guid>
+      <guid>http://localhost:1313/posts/arrabbiata/</guid>
       <description>Penne all&amp;rsquo;Arrabbita Mise en place Ingredienten Penne Passata di Pomodoro Pecorino Romano 1 Chili (mat engem Mörser zu enger Zort Bräi zerdrécken) Basilikums Blieder (a Chiffonade geschnidden oder mat den Hänn méi spéit zerrappt) Péiterséileg (réng geschnidden) Knuewelek Peffer Salz a grafft Salz Ueleg (Oliven, extra vierge) Material Messer Briet Eng Press fir Knuewelek Mörser mit Pistil déckt Dëppen Pan mat groussem ronnem Bord Läffel Seibecken Taass Rezept Nuddele kachen Een déckt Dëppe mat Waasser a Salz opsetzen.</description>
     </item>
   </channel>
