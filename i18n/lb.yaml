@@ -1,0 +1,33 @@
+- id: prev_page
+  translation: "Viregt"
+
+- id: next_page
+  translation: "Nächst"
+
+- id: read_time
+  translation:
+    one: "1 Minutt"
+    other: "{{ .Count }} Minutten"
+
+- id: words
+  translation:
+    one : "Wuert"
+    other: "{{ .Count }} Wierder"
+
+- id: toc
+  translation: "Inhaltsverzeichnis"
+
+- id: translations
+  translation: "Iwwersetzungen"
+
+- id: home
+  translation: "Heem"
+
+- id: edit_post
+  translation: "Beaarbechten"
+
+- id: code_copy
+  translation: "Kopéieren"
+
+- id: code_copied
+  translation: "Kopéiert!"

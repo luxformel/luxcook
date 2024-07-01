@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lëtzebuerg on LuxCook</title>
+    <link>http://localhost:49717/laenner/l%C3%ABtzebuerg/</link>
+    <description>Recent content in Lëtzebuerg on LuxCook</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>lb</language>
+    <lastBuildDate>Mon, 01 Jul 2024 03:16:59 +0200</lastBuildDate>
+    <atom:link href="http://localhost:49717/laenner/l%C3%ABtzebuerg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moschterzooss</title>
+      <link>http://localhost:49717/posts/moschterzooss/</link>
+      <pubDate>Mon, 01 Jul 2024 03:16:59 +0200</pubDate>
+      <guid>http://localhost:49717/posts/moschterzooss/</guid>
+      <description>Wäinzoossiss mat Moschterzooss an Nuddelen Mise en place Ingredienten Moschter Wäinzoossiss Ram Schallotten (Julienne geschnidden) Salz Peffer Material Pan Rezept Zoos Varianten Och gutt kënnen Nuddele sinn oder gekachte Gromperen am sou guer Pouletszoossiss amplaaz vun der Wäinzoossiss.</description>
+    </item>
+  </channel>
+</rss>

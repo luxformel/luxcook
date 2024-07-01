@@ -1,7 +1,7 @@
 baseURL = 'https://luxcook.lu/'
-languageCode = 'lb'
 title = 'LuxCook'
 theme = 'hugo-PaperMod'
+defaultContentLanguage = 'lb'
 
 
 [params]
@@ -15,6 +15,35 @@ theme = 'hugo-PaperMod'
         title = "LuxCook"
         content = "Wëllkomm op LuxCook! Hei fannt Dir gutt Kachrezepter, mat engem gudde Goût!"
 
+# [languages]
+#     [languages.lb]
+#     languageCode = "lb"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  land = "laenner"
+
+[[menu.main]]
+  identifier = "search"
+  name = "Sichen"
+  url = "/search/"
+  weight = 40
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 30
+[[menu.main]]
+  identifier = "categories"
+  name = "Categorie"
+  url = "/categories/"
+  weight = 20
+[[menu.main]]
+  identifier = "länner"
+  name = "Länner"
+  url = "/laenner/"
+  weight = 10
 
 # for search
 [outputs]
